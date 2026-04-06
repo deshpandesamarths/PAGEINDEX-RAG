@@ -1,0 +1,9 @@
+#ignored to push in git
+.env
+
+#ignored to push
+*.pyc
+
+#ignored to push
+documents/
+
